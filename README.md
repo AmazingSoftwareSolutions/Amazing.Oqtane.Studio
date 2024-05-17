@@ -1,6 +1,6 @@
 # Amazing.Oqtane.Studio
 
-Amazing.Oqtane.Studio helps you generate code that conforms to the [Oqtane Framework](https://github.com/oqtane/oqtane.framework) for your Modules
+[Amazing.Oqtane.Studio](https://learnoqtane.com/modules/amazing-oqtane-studio) helps you generate code that conforms to the [Oqtane Framework](https://github.com/oqtane/oqtane.framework) for your Modules
 
 # Gettings Started 
 
