@@ -7,15 +7,6 @@ assignees: vnetonline
 
 ---
 
----
-name: Enhancement Request
-about: 'Suggest a product enhancement '
-title: "[ENH] "
-labels: ''
-assignees: ''
-
----
-
 ### Amaizng Oqtane Studio Info
 
 Version - #.#.#
