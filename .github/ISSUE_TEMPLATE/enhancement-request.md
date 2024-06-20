@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an enhancment request for Amazing Oqtane Studio
+name: Enhancement request
+about: Suggest an enhancement request for Amazing Oqtane Studio
 title: "[ENH] - "
 labels: enhancement
 assignees: vnetonline
