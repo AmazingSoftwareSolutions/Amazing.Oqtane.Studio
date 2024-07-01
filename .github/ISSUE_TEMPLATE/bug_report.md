@@ -7,7 +7,7 @@ assignees: vnetonline
 
 ---
 
-### Amaizng Oqtane Studio Info
+### Amazing Oqtane Studio Info
 
 Version - #.#.#
 
